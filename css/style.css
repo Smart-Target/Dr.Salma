@@ -147,6 +147,11 @@ ul#list li	{
 	float: left;
 	width: 25%;
 }
+@media(max-width:768px){
+	.logo{
+		float:none;
+	}
+}
 .menu_main {
 	float: right;
 	width: 75%;
